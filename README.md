@@ -4,7 +4,7 @@
 <a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="500px" /></a>
 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
