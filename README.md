@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **2019ucs0093@iitjammu.ac.in**
 
-- ⚡ Fun fact **U will not get bored with me 🌎.**
+- ⚡ Fun fact **U will sometimes get bored with me 🌎.**
 
 <h3 align="left">⇋ Connect with me:</h3>
 
