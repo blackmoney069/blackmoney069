@@ -1,34 +1,34 @@
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/4972889.jpg" height="400"/>
+</p>
 <h1 align="center">Hi 👋, Lovish Bains 👨🏻</h1>
+<p align="center"> Web3 Developer @ Dyeus.co | Mess Secretary @ IIT Jammu </p>
 
-<h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
-
-<hr>
-<a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="500px" /></a>
+<h3 align="center">Currently working as an Web3 Developer @ Dyeus.co , I am a Blockchain enthusiast and an App and Web developer. I am working on upgarding my competive coding and I'm looking on collaborating on any Blockchain projects and hackathons</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+*
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+<h3 align="center">⇋ Connect with me:</h3>
 
-- 📫 How to reach me **2019ucs0093@iitjammu.ac.in**
-
-- ⚡ Fun fact **U will sometimes get bored with me 🌎.**
-
-<h3 align="left">⇋ Connect with me:</h3>
-
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@BainsLovish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@BainsLovish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/loveisbanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/loveisbanes/" height="30" width="40" /></a>
 <a href="https://instagram.com/love_is_bane_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love_is_bane_s" height="30" width="40" /></a>
 </p>
 <img align="center" src="https://komarev.com/ghpvc/?username=blackmoney069&color=green&style="plastic" />
 
+                                                                                                      
+                                                                                                      
+                                                                                                      
+
 
 
  
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=blackmoney069&theme=radical" alt="blackmoney069" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackmoney069&theme=radical" alt="blackmoney069" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmoney069&theme=radical" alt="blackmoney069" /></p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackmoney069&theme=radical" alt="blackmoney069" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackmoney069&show_icons=true&locale=en&layout=compact" alt="blackmoney069" />
+                                                                                                                                                   </p>
 
