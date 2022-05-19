@@ -2,9 +2,9 @@
   <img src="https://wallpaperaccess.com/full/4972889.jpg" height="400"/>
 </p>
 <h1 align="center">Hi 👋, Lovish Bains 👨🏻</h1>
-<p align="center"> Web3 Developer @ Dyeus.co | Mess Secretary @ IIT Jammu </p>
+<p align="center"> Web3 Developer @ Myriad | Mess Secretary @ IIT Jammu </p>
 
-<h3 align="center">Currently working as an Web3 Developer @ Dyeus.co , I am a Blockchain enthusiast and an App and Web developer. I am working on upgarding my competive coding and I'm looking on collaborating on any Blockchain projects and hackathons</h3>
+<h3 align="center">Currently working as an Web3 Developer @ Myriad , I am a Blockchain enthusiast and an App and Web developer. I am working on upgarding my competive coding and I'm looking on collaborating on any Blockchain projects and hackathons</h3>
 
 
 *
