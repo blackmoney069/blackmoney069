@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 My name is Lovish Bains </h1>
 
-<p align="center"> Web3 Developer Intern @ Myriad | Student Mess Secretary @ IIT Jammu </p>
+<p align="center"> Student @ IIT Jammu </p>
 
 
 I have been working on Blockchains for almost a year now. I am learning about Machine Learning. I am a Web and App developer currently in my third year of B.Tech in Computer Science at IIT Jammu. I am aspiring to become a technical writer.
