@@ -7,8 +7,7 @@ I have been working on Blockchains for almost a year now. I am learning about Ma
 
 * 🌍  I'm based in Jammu
 * ✉️  You can contact me at [2019ucs0093@iitjammu.ac.in](mailto:2019ucs0093@iitjammu.ac.in)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Blockchains .
+* 🧠  I'm working on cryptography and security.
 
 <a href="https://www.github.com/blackmoney069" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/blackmoney069?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
