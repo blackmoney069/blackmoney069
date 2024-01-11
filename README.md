@@ -1,13 +1,18 @@
 <h1 align="center"> Hi 👋 My name is Lovish Bains </h1>
 
-<p align="center"> Student @ IIT Jammu </p>
+<p align="center"> Research Engineer @ Center for Development of Telematics </p>
 
+<p align="center">
+  <img src="https://www.indiaties.in/wp-content/uploads/2023/03/cdot_logo-600x381.png" height="80" alt="cdotlogo">&nbsp;&nbsp;
+    <img src="https://lms.iitjammu.ac.in/pluginfile.php/1/theme_academi/logo/1698920029/IITJMU1.png" height="80" alt="iitjammulogo">
+    
+</p>
 
-I have been working on Blockchains for almost a year now. I am learning about Machine Learning. I am a Web and App developer currently in my third year of B.Tech in Computer Science at IIT Jammu. I am aspiring to become a technical writer.
+I am a Security Software Developer working for Center for Development of Telematics, Ministry of Communications, Government of India. I graduated from Indian Institute of Technology Jammu with a Bachelors in Computer Science and Engineering. I am interested in Cryptography, Network and System Security and HID Systems.
 
 * 🌍  I'm based in Jammu
-* ✉️  You can contact me at [2019ucs0093@iitjammu.ac.in](mailto:2019ucs0093@iitjammu.ac.in)
-* 🧠  I'm working on cryptography and security.
+* ✉️  You can contact me at [singhlovi09@gmail.com](mailto:singhlovi09@gmail.com)
+* 🧠  I'm working on cryptography,HIDS and security.
 
 <a href="https://www.github.com/blackmoney069" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/blackmoney069?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
@@ -39,7 +44,7 @@ src="https://img.shields.io/github/followers/blackmoney069?logo=github&style=for
 ### Socials
 
 <p align="center"> <a href="https://www.github.com/blackmoney069" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.instagram.com/love_is_bane_s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/loveisbanes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/BainsLovish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/love_is_bane_s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/loveisbanes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
 
 ### Badges
 
